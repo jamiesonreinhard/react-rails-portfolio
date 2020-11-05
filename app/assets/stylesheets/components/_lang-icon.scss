@@ -1,0 +1,7 @@
+.lang-icon {
+  transition: 0.2s all;
+  &:hover {
+    transform: translateY(-3px);
+    color: yellow;
+  }
+}
